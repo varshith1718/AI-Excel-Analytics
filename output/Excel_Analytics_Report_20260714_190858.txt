@@ -1,0 +1,58 @@
+======================================================================
+AI EXCEL ANALYTICS REPORT
+======================================================================
+
+GENERATED ON
+----------------------------------------------------------------------
+14 July 2026 07:08 PM
+
+DATASET INFORMATION
+----------------------------------------------------------------------
+Rows                     : 75
+Columns                  : 4
+Missing Values           : 26
+Duplicate Rows           : 0
+Column Names             : ['Date', 'Work Summary', 'Learnings / Outcomes', 'Unnamed: 3']
+Numeric Columns          : ['Unnamed: 3']
+Categorical Columns      : ['Date', 'Work Summary', 'Learnings / Outcomes']
+
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+
+
+EXECUTIVE SUMMARY
+
+Dataset Size
+
+• Rows : 75
+
+• Columns : 4
+
+Data Quality
+
+• Missing Values : 26
+
+• Duplicate Rows : 0
+
+Overall Assessment
+
+The uploaded Excel file has been analyzed successfully.
+The dataset quality has been evaluated based on
+missing values, duplicate records and available columns.
+
+
+RISK ANALYSIS
+----------------------------------------------------------------------
+• Dataset contains missing values.
+
+RECOMMENDATIONS
+----------------------------------------------------------------------
+✓ Fill missing values before performing analysis.
+
+OVERALL DATASET SCORE
+----------------------------------------------------------------------
+87.0/100
+
+======================================================================
+END OF REPORT
+======================================================================
